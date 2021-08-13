@@ -121,32 +121,3 @@ class NormalBottomNaviBarState extends State<NormalBottomNaviBar> {
     );
   }
 }
-
-/*
-buildAppBar() {
-  return AppBar(
-    title: Center(
-        child: Text(
-      "Chatchange", // LOGO: C
-      style: TextStyle(fontFamily: 'Pacifico', fontSize: 25),
-    )
-        /*CircleAvatar(
-          backgroundImage: AssetImage("assets/images/bitcoinLogo.jpg"),
-        ),*/
-        ),
-    actions: [
-      IconButton(
-          onPressed: () {}, icon: Icon(Icons.notifications_active_outlined)),
-      IconButton(
-        onPressed: () {},
-        icon: Icon(
-          Icons.markunread_outlined,
-          color: Colors.white,
-        ),
-      ),
-    ],
-    backgroundColor: Colors.black,
-    elevation: 1,
-  );
-}
-*/
