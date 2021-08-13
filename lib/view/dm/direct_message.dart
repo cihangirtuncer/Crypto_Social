@@ -43,7 +43,7 @@ class _DirectMessageState extends State<DirectMessage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Notifications"),
+        title: Text("Direct Messages"),
       ),
       body: ListView(
         children: [
