@@ -15,8 +15,6 @@ class TwitsScreens extends StatelessWidget {
     return Scaffold(
         body: ListView(
       children: [
-        buildNews("assets/images/photo7.jpeg", "May cline",
-            "Today I won 30,000 dolars cryptocurrency exchange a great long live decentralized money. you can trade with leverage, I think not with spot."),
         buildNews("assets/images/photo5.jpg", "Fasha Wonder",
             "Once again, I will not shop on such a platform, there is no limit for the money I lost, no one who has a mind can enter here."),
         buildNews("assets/images/photo6.jpg", "Lampard Nevile",
