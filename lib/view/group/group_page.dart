@@ -64,9 +64,9 @@ class SearchScreen extends StatelessWidget {
             border: Border.all(width: 1, color: Color(0xFF585656))),
         child: Card(
           child: ListTile(
-            title: Text("GRUP $name  ", style: TextStyle(fontSize: 20)),
+            title: Text("GROUP $name  ", style: TextStyle(fontSize: 20)),
             subtitle: Text(
-              "katılımcı sayısı: $userValues",
+              "users: $userValues",
               style: TextStyle(fontSize: 20),
             ),
             leading: CircleAvatar(
