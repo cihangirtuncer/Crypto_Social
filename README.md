@@ -1,16 +1,17 @@
 # flutter_application_crypto_apps
 
-A new Flutter project.
+This application is a social media application developed for cryptocurrencies. Flutter was used.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+<img src="assets/screenshots/profile_screen.png" width="150">
+  <img src="assets/screenshots/drawer_screen.png" width="150">
+  <img src="assets/screenshots/home_screen.png" width="150">
+  <img src="assets/screenshots/coin_screen.png" width="150">
+  <img src="assets/screenshots/notifications_screen.png" width="150">
+  <img src="assets/screenshots/twits_screen.png" width="150"> 
+  <img src="assets/screenshots/group_screen.png" width="150">
+  <img src="assets/screenshots/direct_messages_screen.png" width="150">
+  <img src="assets/screenshots/favourite_coin_screen.png" width="150">
+  <img src="assets/screenshots/login_screen.png" width="150">
+  <img src="assets/screenshots/signup_screen.png" width="150">
+</p > 
