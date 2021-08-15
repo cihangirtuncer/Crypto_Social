@@ -492,7 +492,7 @@ class _DirectMessageState extends State<DirectMessage> {
                             setState(() {
                               value5 % 2 == 0
                                   ? color5 = Colors.blue.shade900
-                                  : color3 = Colors.black;
+                                  : color5 = Colors.black;
                               value5 % 2 == 0
                                   ? open5 = "Open"
                                   : open5 = "Opened";
