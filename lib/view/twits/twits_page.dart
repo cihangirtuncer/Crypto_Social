@@ -79,14 +79,13 @@ class TwitsScreens extends StatelessWidget {
                   Icon(Icons.share),
                   Icon(Icons.add),
                   CircleAvatar(
-                    backgroundColor: Colors.blue,
-                    child: Text(
-                      "TWIT",
-                      style: TextStyle(
-                        color: Colors.black,
-                      ),
-                    ),
-                  )
+                      backgroundColor: Colors.blue,
+                      child: Text(
+                        "TWIT",
+                        style: TextStyle(
+                          color: Colors.black,
+                        ),
+                      ))
                 ],
               )
             ],
