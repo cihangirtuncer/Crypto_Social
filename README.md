@@ -2,6 +2,7 @@
 
 This application is a social media application developed for cryptocurrencies. Flutter was used.
 
+## :camera:  PHOTOS
 <p float="left">
 <img src="assets/screenshots/profile_screen.png" width="150">
   <img src="assets/screenshots/drawer_screen.png" width="150">
